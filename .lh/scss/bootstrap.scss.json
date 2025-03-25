@@ -1,0 +1,18 @@
+{
+    "sourceFile": "scss/bootstrap.scss",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1742879421166,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1742879421166,
+            "name": "Commit-0",
+            "content": "/******* Customized Bootstrap ********/\r\n\r\n$primary: #533113;\r\n$secondary: #80914b;\r\n$light: #eae5d6;\r\n$dark: #14183E;\r\n\r\n$font-family-base: 'Open Sans', sans-serif;\r\n\r\n$headings-font-family: 'Ubuntu', sans-serif;\r\n\r\n$body-color: #555555;\r\n\r\n$headings-color: $dark;\r\n\r\n$headings-font-weight: 700;\r\n\r\n$display-font-weight: 700;\r\n\r\n$enable-responsive-font-sizes: true;\r\n\r\n$border-radius: 10px;\r\n\r\n$border-radius-sm: $border-radius;\r\n\r\n$border-radius-lg: $border-radius;\r\n\r\n$link-decoration: none;\r\n\r\n$enable-negative-margins: true;\r\n\r\n@import \"bootstrap/scss/bootstrap\";"
+        }
+    ]
+}
