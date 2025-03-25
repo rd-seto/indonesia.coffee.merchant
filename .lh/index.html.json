@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 10,
+            "activePatchIndex": 11,
             "patches": [
                 {
                     "date": 1742048732092,
@@ -48,6 +48,10 @@
                 {
                     "date": 1742888862703,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -120,9 +120,9 @@\n \r\n     <!-- Hero Start -->\r\n     <div class=\"container-fluid pt-5 bg-primary hero-header mb-5\" style=\"position: relative; overflow: hidden;\">\r\n         <!-- Video Background -->\r\n-        <video autoplay muted loop style=\"position: absolute; right: 0; bottom: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: 0; object-fit: cover;\">\r\n+        <video autoplay muted loop style=\"position: absolute; right: 0; bottom: 0; min-width:100%; min-height: max-content; width: auto; height: auto; z-index: 0; object-fit: cover;\">\r\n             <source src=\"/video/coffee_bean.mp4\" type=\"video/mp4\">\r\n             Your browser does not support the video tag.\r\n         </video>\r\n         \r\n"
+                },
+                {
+                    "date": 1742891854195,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -241,9 +241,9 @@\n                 <div class=\"col-lg-7\">\r\n                     <div class=\"row g-4\">\r\n                         <div class=\"col-md-4\">\r\n                             <div class=\"service-item d-flex flex-column justify-content-center text-lg-start rounded\">\r\n-                                <img src=\"img/roasted.jpeg\" alt=\"Arabica Coffee\" class=\"icon-img\">\r\n+                                <img src=\"img/arabica/10.PUNTANG HONEY.png\" alt=\"Arabica Coffee\" class=\"icon-img\">\r\n                                 <h5 class=\"mb-3\">Arabica</h5>\r\n                                 <p>\r\n                                     Smooth body with rich chocolate, fruity, and floral notes. Perfect for those seeking a refined coffee experience.\r\n                                 </p>\r\n@@ -261,9 +261,9 @@\n                             </div>\r\n                         </div>\r\n                         <div class=\"col-md-4\">\r\n                             <div class=\"service-item d-flex flex-column justify-content-center text-lg-start rounded\">\r\n-                                <img src=\"img/drip.jpeg\" alt=\"Liberica Coffee\" class=\"icon-img\">\r\n+                                <img src=\"img/arabica/4.KAMOJANG WASHED.png\" alt=\"Liberica Coffee\" class=\"icon-img\">\r\n                                 <h5 class=\"mb-3\">Liberica</h5>\r\n                                 <p>\r\n                                     Exotic and rare with a unique floral, fruity, and smoky aroma. A bold choice for adventurous coffee lovers.\r\n                                 </p>\r\n"
                 }
             ],
             "date": 1742048732092,
